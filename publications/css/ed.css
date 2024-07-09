@@ -1,0 +1,195 @@
+/* Clear out all the default spacing */
+html, body, ul, li, h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Overall page properties */
+body {
+  background: #6b6a68; /* dark grey */
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 90%; 
+  font-weight: normal;
+  color: #333;
+}
+
+/* Wrapper around all content; controls width */
+#wrapper {
+  text-align: left;
+  width: 796px;
+  margin: 10px auto;
+  padding:0px;
+  border: 0px solid yellow; /* use for testing */
+}
+
+/* Header at the top of the page */
+#header {
+  height: 97px;
+  background: #ccc url(../img/header.gif) repeat-x;
+  border-top-style: solid;   border-top-color: white;   border-top-width: 1px;
+  border-left-style: solid;  border-left-color: white;  border-left-width: 1px;
+  border-right-style: solid; border-right-color: white; border-right-width: 1px;
+  font-family: "Palatino Linotype", "Bookman Old Style", Times, serif;
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+#header p {  
+  margin: 8px 10px 0px 20px;
+}
+
+/* Navigation bar; menu items in horizontal list across top of page */
+#nav {
+  height: 35px;
+  background: #ccc url(../img/nav_bg.gif) repeat;
+  border-left-style: solid;  border-left-color: white;  border-left-width: 1px;
+  border-right-style: solid; border-right-color: white; border-right-width: 1px;
+}
+#nav ul {
+  padding: 0;
+  margin: 0;
+  height: 35px;
+  overflow: hidden;
+  font-family: "Palatino Linotype", "Bookman Old Style", Times, serif;
+  font-size: 13px;
+  letter-spacing: 1.25px;
+}
+#nav em {
+  font-size: 16px;
+  font-style: normal;
+}
+#nav li {
+  display: inline-block;
+  float: left;
+  height: 35px;
+  margin: 0;
+  padding: 5px 0px 0px 0px;
+  color: white;
+  border-right-style: solid; border-right-color: white; border-right-width: 1px;
+}
+#nav a {
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+#nav a:hover, #nav a.selected { /* want hover and selected item to light up */
+  background: #ccc url(../img/nav_bg_selected.gif) repeat;
+}
+
+/* Main content section */
+#content { /* content rectangle */
+  background: #eceae9;
+  margin: 0px 0px 1px 0px;
+  padding: 0px;
+  border: 1px solid white;
+}
+#content p { /* paragraphs */
+  color: black;
+  margin: 15px 17px 6px 17px;
+  line-height: 135%;
+}
+#content em {  /* emphasis */
+  font-style: normal;
+  font-weight: bold;
+  color: #600;
+}
+#content ul, #content ol { /* lists */
+  color: black;
+  margin: 15px 10px 6px 42px;
+}
+#content ul li {
+  list-style: disc outside;
+}
+#content ol li {
+  list-style: decimal outside;
+}
+#content .par_list li { /* list of paragraphs, instead of single-line phrases */
+  margin: 15px 10px 6px 0px;
+}
+#content .h_list li { /* horizontal list, instead of vertical list */
+  display: inline-block;
+  position: relative;
+  left: -25px;
+}
+#content h1 { /* headings; h1 only for top of page */
+  font-size: 150%;
+  color: #600;
+  border-top: 1px #d8d8d8 solid;
+  border-bottom: 1px #d8d8d8 solid;
+  width: 95%;
+  margin: 15px 0px 0px 17px;
+  padding: 2px 0 2px 0;
+  font-weight: normal;
+}
+#content h2 {
+  margin: 15px 0px -8px 17px;
+  font-size: 125%;
+  font-weight: bold;
+}
+#content h3 {
+  margin: 15px 0px -8px 17px;
+  font-size: 115%; 
+  font-weight: bold;
+  color: #600;
+}
+#content h4 {
+  margin: 15px 0px -8px 17px;
+  font-size: 105%; 
+  font-weight: bold;
+  color: #000;
+}
+#content a:link, #content a:visited, #content a:active { /* links */
+  font-weight: bold;
+  color: #600;
+  text-decoration: none;
+  background: #eceae9 url(../img/dot.gif) repeat-x bottom;
+}
+#content a:hover {
+  font-weight: bold;
+  color: #eee;
+  text-decoration: none;
+  background: #666;
+}
+
+
+
+/* image frames */
+#image {  
+  float: right;
+  text-align: right;
+  margin: 10px;
+  font-size: 70%;
+  color: black;
+}
+#image a:link, #image a:visited, #image a:active {  
+  text-decoration: none;
+  background: #eceae9 url(../img/dot.gif) repeat-x bottom;
+  color: #600;
+}
+#image a:hover {  
+  text-decoration: none;
+  background: #666 none;
+  color: #eee;
+}
+
+/* footer section */
+#footer {
+  font-size: 70%;
+  margin: 4px 0px 4px 0px;
+  color: white;
+  border: 0px solid orange; /* use for testing */
+}
+#footer p {  
+  margin: 0px 0px 0px 0px;
+}
+#footer a:link, #footer a:visited {
+  color: white;
+  text-decoration: none;
+}
+#footer a:hover, #footer a:active {
+  color: #600;
+  text-decoration: none;
+}
+

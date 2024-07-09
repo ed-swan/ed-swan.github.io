@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xml:lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="StyleSheet" href="../css/responsive.css" type="text/css" media="all">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>J. Edward Swan II</title>
+</head>
+<body><div class="outer_wrapper"><div class="inner_wrapper">
+<div class="header"><p>J. Edward Swan II</p></div>
+<div class="menu">
+<ul>
+<li><a href="../index.html"><em>A</em>BOUT</a></li> •
+           <li><a href="../research.html"><em>R</em>ESEARCH</a></li> •
+           <li><a href="sort_date.html" class="selected"><em>P</em>UBLICATIONS</a></li> •
+           <li><a href="../teaching.html"><em>T</em>EACHING</a></li> •
+           <li><a href="../tutorials.html"><em>T</em>UTORIALS</a></li> •
+           <li><a href="../students.html"><em>S</em>TUDENTS</a></li>
+</ul>
+<p> </p>
+</div>
+<div class="content">
+<ul class="h_list">
+<li><big>• <a href="class_rescat.html">Classified by Research Category</a> </big></li>
+<li><big>• <a href="class_type.html">Classified by Publication Type</a> </big></li>
+<li><big>• <a href="sort_date.html">Classified by Date</a> </big></li>
+</ul>
+<h2> Interactive, Distributed, Hardware-Accelerated LOD-Sprite                  Terrain Rendering with Stable Frame Rates</h2>
+<p class="citation"> J. Edward Swan&nbsp;II,  Jesus Arango, and  Bala Nakshatrala.  Interactive, Distributed, Hardware-Accelerated LOD-Sprite                  Terrain Rendering with Stable Frame Rates. In  R. Erbacher,  P. Chen,  M. Gr&ouml;hn,  J. Roberts, and  C. Wittenbrink, editors, <i> Visualization and Data Analysis 2002, Proceedings of SPIE Volume 4665</i>, pp. 177&ndash;188, January 2002.</p>
+<h3>Download</h3>
+<p><a href="papers/2002_Swan-etal_LOD-Sprite_VDA.pdf">[PDF]</a>&nbsp;</p>
+<h3>Abstract</h3>
+<p class="abstract">  A stable frame rate is important for interactive rendering systems. Image-based modeling and rendering (IBMR) techniques, which model parts of the scene with image sprites, are a promising technique for interactive systems because they allow the sprite to be manipulated instead of the underlying scene geometry.  However, with IBMR techniques a frequent problem is an unstable frame rate, because generating an image sprite (with 3D rendering) is time-consuming relative to manipulating the sprite (with 2D image resampling).  This paper describes one solution to this problem, by distributing an IBMR technique into a collection of cooperating threads and executable programs across two computers. The particular IBMR technique distributed here is the LOD-Sprite algorithm.  This technique uses a multiple level-of-detail (LOD) scene representation.  It first renders a keyframe from a high-LOD representation, and then caches the frame as an image sprite.  It renders subsequent spriteframes by texture-mapping the cached image sprite into a lower-LOD representation.  We describe a distributed architecture and implementation of LOD-Sprite, in the context of terrain rendering, which takes advantage of graphics hardware.  We present timing results which indicate we have achieved a stable frame rate.  In addition to LOD-Sprite, our distribution method holds promise for other IBMR techniques. </p>
+<a href="VDA02-lods.bib"><h3>BibTeX</h3></a><pre>@InCollection{VDA02-lods, 
+  author =      {J. Edward {Swan~II} and Jesus Arango and Bala Nakshatrala}, 
+  title =       {Interactive, Distributed, Hardware-Accelerated LOD-Sprite 
+                 Terrain Rendering with Stable Frame Rates}, 
+  booktitle =   {Visualization and Data Analysis 2002, Proceedings of SPIE Volume 4665}, 
+  editor =      {R. Erbacher and P. Chen and M. Gr\"{o}hn and J. Roberts and 
+                 C. Wittenbrink}, 
+  month =       {January}, 
+  year =        2002, 
+  pages =       {177--188}, 
+  abstract =    { 
+A stable frame rate is important for interactive rendering systems. 
+Image-based modeling and rendering (IBMR) techniques, which model 
+parts of the scene with image sprites, are a promising technique for 
+interactive systems because they allow the sprite to be manipulated 
+instead of the underlying scene geometry.  However, with IBMR 
+techniques a frequent problem is an unstable frame rate, because 
+generating an image sprite (with 3D rendering) is time-consuming 
+relative to manipulating the sprite (with 2D image resampling).  This 
+paper describes one solution to this problem, by distributing an IBMR 
+technique into a collection of cooperating threads and executable 
+programs across two computers. 
+The particular IBMR technique distributed here is the LOD-Sprite 
+algorithm.  This technique uses a multiple level-of-detail (LOD) scene 
+representation.  It first renders a keyframe from a high-LOD 
+representation, and then caches the frame as an image sprite.  It 
+renders subsequent spriteframes by texture-mapping the cached image 
+sprite into a lower-LOD representation.  We describe a distributed 
+architecture and implementation of LOD-Sprite, in the context of 
+terrain rendering, which takes advantage of graphics hardware.  We 
+present timing results which indicate we have achieved a stable frame 
+rate.  In addition to LOD-Sprite, our distribution method holds 
+promise for other IBMR techniques. 
+}, 
+} 
+</pre>
+</div>
+</div></div></body>
+</html>
