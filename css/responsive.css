@@ -1,0 +1,167 @@
+/* makes box elements easier to manage */
+* {
+  box-sizing: border-box;
+}
+
+/* clear out all the default spacing */
+html, body, ul, li, h1, h2, h3, h4, p {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* overall page properties */
+body {
+  background: #6b6a68; /* dark gray */
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9rem; /* default font size */
+  color: #333;
+}
+
+/* wrapper around all content; controls max width */
+.outer_wrapper { /* the outer wrapper stretches to the edges, and keeps everything centered */
+  margin: auto;
+  max-width: 796px;
+}
+.inner_wrapper { /* the inner wrapper sets pleasing margins */
+  margin: 8px;
+}
+
+/* header on top of page */
+.header {
+  background-color: rgb(105,18,20); /* if gradients not supported */
+  background-image: linear-gradient(rgb(105,18,20), rgb(80,14,15));
+  height: 80px;
+  line-height: 80px;
+  font-family: "Palatino Linotype", "Bookman Old Style", Times, serif;
+  font-size: 2.5rem;
+  color: white;
+  padding: 0;
+  text-align: center;
+  border: 1px solid white;
+}
+
+/* menus across the top */
+.menu { /* box to contain menu items */
+  background-color: rgb(72,72,72);
+  background-image: linear-gradient(rgb(72,72,72), rgb(62,62,62));
+  color: white;
+  font-family: "Palatino Linotype", "Bookman Old Style", Times, serif;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  border-left:   1px solid white;
+  border-right:  1px solid white;
+  border-bottom: 1px solid white;
+  text-align: center;
+}
+.menu p { /* create blank line below links */
+  font-size: 8px;
+}
+.menu li { /* each menu list item */
+  display: inline-block;
+  padding-top: 8px;
+}
+.menu a { /* each menu link */
+  font-size: 1.0rem;
+  text-decoration: none;
+  color: white;
+  padding-left:   8px;
+  padding-right:  8px;
+}
+.menu a:hover, .menu a.selected { /* want hover and selected item decorated */
+  text-decoration: underline;
+}
+.menu em { /* want first letter to be larger; small-caps effect */
+  font-size: 1.4rem;
+  font-style: normal;
+}
+
+/* main text block */
+.content { /* rectangle around everything */
+  background: #eceae9;
+  float: left;
+  width: 100%;
+  padding-top: 0.75em;
+  padding-right: 1.0em;
+  padding-left: 1.0em;
+  border-left:   1px solid white;
+  border-bottom: 1px solid white;
+  border-right:  1px solid white;
+}
+.content p, .content ul, .content ol { /* content text element spacing */
+  padding-bottom: 1.0em;
+}
+.content p { /* paragraphs */
+  line-height: 145%;
+}
+.content em {  /* emphasis */
+  font-style: normal;
+  font-weight: bold;
+  color: #600;
+}
+.content ul, .content ol { /* lists */
+  padding-left: 1.25em;
+}
+.content ul li {
+  list-style: disc outside;
+  padding-bottom: 0.3em;
+}
+.content ol li {
+  list-style: decimal outside;
+}
+.content .par_list li { /* list of paragraphs, instead of single-line phrases */
+  margin-bottom: 1.0em;
+}
+.content .h_list li { /* horizontal list, instead of vertical list */
+  display: inline-block;
+  position: relative;
+  left: -1.25em;
+}
+.content h1 { /* headings */
+  font-size: 150%;
+  color: #600;
+  border-top: 1px #d8d8d8 solid;
+  border-bottom: 1px #d8d8d8 solid;
+  padding: 2px 0 2px 0;
+  margin-top: 0.75em;
+  margin-bottom: 0.50em;
+  font-weight: normal;
+}
+.content h2 {
+  font-size: 125%;
+  font-weight: bold;
+  margin-bottom: 0.50em;
+}
+.content h3 {
+  font-size: 115%; 
+  font-weight: bold;
+  color: #600;
+  margin-bottom: 0.50em;
+}
+.content h4 {
+  font-size: 105%; 
+  font-weight: bold;
+  color: #000;
+}
+.content a:link, .content a:visited, .content a:active { /* links */
+  font-weight: bold;
+  color: #600;
+  text-decoration: none;
+  border-bottom: 1px solid #bdbdbd;
+}
+.content a:hover {
+  font-weight: bold;
+  color: #eee;
+  text-decoration: none;
+  background: #666;
+}
+
+/* render for mobile phones */
+@media only screen and (max-width:620px) {
+  body {
+    font-size: 1.0rem; /* font gets bigger */
+  }
+  .inner_wrapper {
+    margin: 0px;  /* we use the whole screen */
+  }
+}
