@@ -1,0 +1,130 @@
+/* General Text Settings */
+body {
+	font-family: serif;
+	font-size: medium;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+h1 {
+	font-weight: bolder;
+	font-size: 1.5em;
+	margin-left: 0em;
+	padding-left: 0.3em;
+	margin-bottom: 0em;
+	font-variant: small-caps;
+	/*padding-top: 0.3em;*/
+	background-color: #660000;
+	color: white;
+}
+h2 {
+	font-weight: bold;
+	font-size: 1.1em;
+	margin-left: 0em;
+}
+h3 {
+	font-weight: normal;
+	font-style: italic;
+	font-size: 1.0em;
+	margin-left: 0em;
+}
+h4 { 
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: underline;
+	font-size: 1em;
+	margin-left: 0em;
+}
+h5 { 
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1em;
+	margin-left: 1em;
+}
+span.parlabel {
+	font-weight: bold;
+	font-variant: small-caps;
+}
+dt {
+	font-style: italic;
+}
+a:link {
+	color: #AA0000;
+	text-decoration: none;
+}
+a:visited {
+	color: purple;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+address {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin dotted 
+}
+blockquote {
+	font-style: italic;
+}
+span.code {
+	font-family: Courier New, monospace;
+	font-size: 0.9em;
+}
+ul.textpars li {
+	padding-bottom: 0.5em;
+}
+ol.textpars li {
+	padding-bottom: 0.5em;
+}
+ul.tight li { 
+	padding-bottom: 0.0em;
+}
+/* Tables */
+table.twocolumn {
+	width: 100%;
+	border-width: medium;
+}
+td.contentcolumn {
+	vertical-align: top;
+}
+table.plain {
+	position: relative; 
+	left: 2em;
+	background-color: #FFFFFF;
+}
+td.leftbox { 
+	border: thin silver solid
+}
+/* Navigation Bar */
+td.navbar {
+	vertical-align: top;
+   	background-color: #660000;
+   	width: 20%;
+}
+ul.navbar {
+	background: #660000;
+	list-style-type: none;
+}
+ul.navbar li {
+	font-variant: small-caps;
+	color: white;
+	text-align: right;
+	padding-bottom: 0.3em;
+	padding-left: 0.0em;
+	padding-right: 0.3em;
+	font-size: 1.5em;
+	font-weight: bolder;
+}
+ul.navbar a:link {
+	color: white;
+	text-decoration: none;
+	vertical-align: top;
+}
+ul.navbar a:visited { 
+	color: white; 
+	text-decoration: none; 
+}
+ul.navbar a:hover { 
+	color: white; 
+	text-decoration: underline; 
+}

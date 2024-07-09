@@ -1,0 +1,243 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO8859">
+<title>CSE 8433 Syllabus</title>
+<link rel="stylesheet" type="text/css" href="screen_styles.css" media="screen">
+</head>
+
+<body lang="en">
+
+<h1>CSE 8433 (Advanced Computer Graphics) Syllabus, Spring 2007</h1>
+<dl>
+  <dt>Instructor</dt>
+  <dd>Dr. J. Edward Swan II</dd>
+  <dt>Course Time and Location</dt>
+  <dd>Tuesday and Thursday, 12:30 pm–1:45 pm, 103
+  <a href="http://msuinfo.ur.msstate.edu/where/building/butler.htm">Butler Hall</a></dd>
+  <dt>Office Hours and Location</dt>
+  <dd>Tuesday and Thursday, 1:45 pm–3:00 pm, 321
+  <a href="http://msuinfo.ur.msstate.edu/where/building/butler.htm">Butler Hall</a></dd>
+  <dt>Prerequisite Course</dt>
+  <dd>CSE 4413 / 6413 Computer Graphics, or equivalent</dd>
+  <dt>Required Text</dt>
+  <dd>Peter Shirley (and 7 co-authors),
+  <a href="http://www.cs.utah.edu/~shirley/fcg2/">Fundamentals of Computer 
+  Graphics, 2nd Edition</a>, A. K. Peters, 2005.</dd>
+  <dt>Additional Readings</dt>
+  <dd>As the semester progresses, I will likely assign additional readings from 
+  current and classic computer graphics papers and/or additional book chapters.&nbsp; 
+  I will put copies of these papers on the course website.</dd>
+  <dt>Catalog Information</dt>
+  <dd><span class="fieldmediumtext">Three hours lecture.&nbsp;&nbsp;Realistic, 
+  three-dimensional image generation; modeling&nbsp;techniques for complex 
+  three-dimensional scenes;&nbsp;&nbsp;advanced illumination techniques; fractal surface 
+  modeling;&nbsp;modeling and rendering of natural phenomena.</span></dd>
+</dl>
+<h1>Grading Scale</h1>
+<p>&nbsp;</p>
+<center>
+<table cellspacing="3" cellpadding="2">
+  <tr>
+    <td>&#8805; 90%</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>80%–89%</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>60%–79%</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>50%–59%</td>
+    <td>D</td>
+  </tr>
+  <tr>
+    <td>&lt; 50%</td>
+    <td>F</td>
+  </tr>
+</table>
+</center>
+<p>Because my goal is for this course to be a collaborative environment, I will 
+not grade the course on a curve, and thus students are not competing against 
+each other.</p>
+<h1>Graded Activities</h1>
+<center>
+<table cellspacing="3" cellpadding="2">
+  <tr>
+    <td>Programming Assignments</td>
+    <td>52%</td>
+  </tr>
+  <tr>
+    <td>Midterm Exam</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td>Class Presentation</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td>Final Project</td>
+    <td>16%</td>
+  </tr>
+</table>
+</center>
+<p><u><b>Programming Assignments</b></u>: We will have 3&#8722;5 programming 
+assignments during the semester.&nbsp; These assignments will involve writing a 
+simple ray tracer, and then successively adding additional features and 
+capabilities.&nbsp; Each programming assignment will count an equal weight for 
+the final grade.&nbsp; Programming assignments are discussed in more detail 
+below.&nbsp; </p>
+<p><u><b>Midterm Exam</b></u>: We will have one midterm exam, which will be 
+closed-notes and closed-book.</p>
+<p><u><b>Class Presentation</b></u>: Towards the end of the semester, students 
+will each present an advanced topic in computer graphics to the reset of the 
+class.&nbsp; This topic will be described in a book chapter and/or 2&#8722;4 papers; 
+papers will be chosen from a mixture of &quot;classic&quot; and &quot;new&quot; papers that have 
+been published in the computer graphics field.&nbsp; </p>
+<p><u><b>Final Project</b></u>: Instead of a final exam, we will have a final 
+project, in which students will choose, from a list of options, various advanced 
+features and capabilities to add to their ray tracer.&nbsp; At the end of the 
+semester students will present their finished programs and discuss their 
+generated images.&nbsp; </p>
+<h1>Message Boards and Email</h1>
+<p>In this class, the WebCT message boards are the main communication interface 
+the instructor and your fellow students.&nbsp; Do not send email to the 
+instructor with questions about the assignments; post these to the discussion 
+boards instead.&nbsp; Often, other students may be able to answer your question 
+before the instructor.&nbsp; My goal is for the course to build upon a 
+collaborative environment.</p>
+<p>Since there may be frequent list activity, check the boards at least once a 
+day.&nbsp; Students are responsible for knowing any material posted by the 
+instructor.</p>
+<p>The boards are a forum for discussion related to this class.&nbsp; Therefore, 
+do not post rude or irrelevant messages. In addition, while algorithms and 
+approaches in general can be discussed on the assignment, exact or partial 
+solutions (including code detailed snippets) are not allowed.&nbsp; Everyone is 
+to do their own work.&nbsp; However, posting your sample images and the input 
+files that generated them is encouraged!</p>
+<h1>Programming Assignments</h1>
+<p>Programming assignments will make up the bulk of the learning and the work in 
+this class.&nbsp; I can't stress enough how important the programming 
+assignments are for learning computer graphics.</p>
+<h2>Machines, Languages, and Compilers</h2>
+<p>Students may use their own machines, or the machines in Butler 213.&nbsp; 
+These machines are accessible to any student in the course, and have the 
+reference compilers and libraries listed below installed on the Windows and 
+Linux partitions.</p>
+<p>Students should use C++ for the assignments.&nbsp; If a student wishes to use 
+a different language (for example, Python or Java), discuss it with me --- my 
+main concern will be whether we can work out a reasonable grading scheme.&nbsp; 
+In general I recommend C++ because (1) historically it has been the most widely 
+used language in the graphics community (although this is changing), and (2) the 
+primary disadvantage of ray tracing is that it is relatively slow, and so a 
+fully compiled language such as C++ is preferred over interpreted or 
+byte-compiled languages such as Python and Java.&nbsp; </p>
+<p>Students may use any compiler they desire to develop and debug the lab 
+assignments.&nbsp; However, when it is time to turn the assignments in, 
+students' code must compile and link with the following reference compiler and 
+library.&nbsp; If the code doesn't compile and execute with the reference 
+compiler and library, it won't be graded.&nbsp; </p>
+<p>The reference compiler is GNU g++ version 3.4.4.&nbsp; This is generally the 
+default compiler for Linux machines.&nbsp; For a Windows machine, the easiest 
+way to get g++ is by installing <a href="http://www.cygwin.com/">Cygwin</a>.&nbsp; 
+The reference library is the standard math library, invoked by the linker 
+command '-lm'.&nbsp; Note that we will not be using OpenGL or DirectX in this 
+course.</p>
+<h2><span style="font-weight: bold;">Collaboration</span></h2>
+<p>Real world programmers work in groups.&nbsp; I encourage students to 
+collaborate on programming assignments in terms of <i>discussing algorithms</i> 
+and <i>general approaches</i>.&nbsp; Students may also assist each other in <i>
+program debugging</i>. Students may engage in these activities through the 
+message boards.&nbsp; </p>
+<p>However, <i>the code for each assignment must be written individually by each 
+student</i>.&nbsp; This means do not use source code downloaded off the Internet 
+or accessed by other means, and don't use outside libraries except for the ones 
+that I provide.&nbsp; This is an important policy.&nbsp; Not only will violators 
+fail to learn the course material, but violators of this policy will be handled 
+according to <a href="http://www.msstate.edu/dept/audit/1207.html">Mississippi 
+State's Academic Honesty Policy 12.07</a>. </p>
+<h2>Programming Assignment Grading</h2>
+<p><u><b>Submission</b></u>: Programming assignments will be submitted 
+electronically through the WebCT interface.&nbsp; In general, programs will be 
+due by 11:55 pm on the indicated date.</p>
+<p><u><b>Late Submissions</b></u>: Late programs will be penalized by 10% for 
+each 24-hour period after their due date, including Saturday and Sunday.&nbsp; 
+In order for maximum learning to occur, programs should work completely.&nbsp; 
+If it doesn't work, turn it in late, but keep working on it.</p>
+<p><u><b>Grading</b></u>: Precise grading details will be provided on an 
+assignment-by-assignment basis.&nbsp; For some programming assignments, I will 
+compile and execute your code, and then examine the generated images.&nbsp; For 
+other assignments, we will meet on the due date, and you will explain your 
+images to to me.&nbsp; In general, programming assignments will be graded on the 
+following criteria:</p>
+<menu>
+  <li><u><b>Results</b></u>: Does the program do what it is supposed to do?</li>
+  <li><u><b>Documentation and Program Structure</b></u>: Does the code contain a 
+  sufficient quantity of meaningful comments and meaningful variable names?&nbsp; 
+  Is it well structured and modular?</li>
+  <li><u><b>Demonstration of Knowledge</b></u>: Does the code demonstrate that 
+  the student understands the assignment?</li>
+</menu>
+<p><u><b>Reference Compiler and Library</b></u>: As discussed above, if a 
+program doesn't compile with the reference compiler and libraries, the student 
+will loose the vast majority of possible credit for the assignment.</p>
+<h1>Additional Policies</h1>
+<p><u><b>Attendance and Audits</b></u>: Except for exams, attending the lectures 
+is not mandatory, but students are responsible for obtaining the course 
+information on their own.&nbsp; Attendance will not affect a student's grade.&nbsp; 
+However, I will take roll, and I will list absences on midterm and final grade 
+reports.&nbsp; Students who are auditing the course must attend at least 75% of 
+the class meetings in order to receive a passing grade.</p>
+<p><u><b>Academic Honesty / Misconduct</b></u>: Students are expected to 
+maintain the standards of academic honesty that are described in the
+<a href="http://www.cse.msstate.edu/academics/honesty.php">Department of 
+Computer Science and Engineering's Academic Honesty Policy</a>.&nbsp; As 
+described under the section on Programming Assignments above, I allow a greater 
+degree of collaboration on programming assignments than the strictest possible 
+interpretation of the department's honesty policy.&nbsp; </p>
+<p><u><b>Personal Electronic Devices</b></u>: Students must respect their fellow 
+students and not disrupt class. Therefore, cell phones, pagers, other such 
+alarms, or personal conversations which disturb the lecture are not allowed.&nbsp; 
+Students with personal laptops are encouraged to bring them to class; however, 
+laptops are not required for this course.</p>
+<p><u><b>Grade of Incomplete (I)</b></u>: Incomplete grades will only be given 
+in extreme circumstances, such as illness, death in a student's immediate 
+family, or similar circumstances beyond a student's control, and furthermore 
+will only be given upon the approval of Dr. Julia Hodges, the CSE department 
+head.&nbsp; </p>
+<p><u><b>Drop / Add Policy</b></u>: This class follows
+<a href="http://www.cse.msstate.edu/academics/add_drop.php">Mississippi State 
+University's Official Drop/Add Policy</a>:</p>
+<blockquote>
+  <p><b>Add/drop without penalty</b>: A student has through the fifth class day 
+  into the semester to add a course and through the tenth class day to drop a 
+  course without being assessed a fee or academic penalty. </p>
+  <p><b>Drop after the tenth class day through the 30th class day into the 
+  semester</b>: A student who elects to drop a course during this period must 
+  receive the approval of his/her advisor, will be assigned a W on his/her 
+  academic record, and be assessed a fee. The advisor who permits the drop will 
+  specify its effective date.</p>
+  <p><b>Drop after the 30th class day into the semester</b>: A student cannot 
+  drop courses after this period except in documented cases of serious illness, 
+  extreme hardship, or failure of the instructor to provide significant 
+  assessment of his/her performance. A request to drop a course during this 
+  period must be approved by the student's advisor and academic dean. The dean 
+  who permits the drop will specify its effective date. A student receiving 
+  permission to drop will receive a W on his/her academic record and be assessed 
+  a fee. </p>
+  <p>Faculty are expected to provide a student with significant evidence or 
+  assessment of his/her class performance within the first six weeks. </p>
+</blockquote>
+<address>
+  Last modified:
+  <!--webbot bot="Timestamp" S-Type="EDITED" S-Format="%B %d, %Y" startspan -->January 30, 2007<!--webbot bot="Timestamp" endspan i-checksum="31711" --></address>
+
+</body>
+
+</html>

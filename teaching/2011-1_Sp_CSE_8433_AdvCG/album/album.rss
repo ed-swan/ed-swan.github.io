@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>CSE 8433 Best of Spring 2011</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>anreddy_lab4_simple301</title>
+            <link>slides/anreddy_lab4_simple301.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/anreddy_lab4_simple301.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="anreddy_lab4_simple301.png" width="400" height="400"/>
+            <guid isPermaLink="false">anreddy_lab4_simple301.png</guid>
+        </item>
+        <item>
+            <title>anreddy_lab4_simple302</title>
+            <link>slides/anreddy_lab4_simple302.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/anreddy_lab4_simple302.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="anreddy_lab4_simple302.png" width="400" height="400"/>
+            <guid isPermaLink="false">anreddy_lab4_simple302.png</guid>
+        </item>
+        <item>
+            <title>anreddy_lab5_2spheresDOF</title>
+            <link>slides/anreddy_lab5_2spheresDOF.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/anreddy_lab5_2spheresDOF.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="anreddy_lab5_2spheresDOF.png" width="800" height="800"/>
+            <guid isPermaLink="false">anreddy_lab5_2spheresDOF.png</guid>
+        </item>
+        <item>
+            <title>anreddy_lab5_4SoftShadows1</title>
+            <link>slides/anreddy_lab5_4SoftShadows1.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/anreddy_lab5_4SoftShadows1.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="anreddy_lab5_4SoftShadows1.png" width="805" height="805"/>
+            <guid isPermaLink="false">anreddy_lab5_4SoftShadows1.png</guid>
+        </item>
+        <item>
+            <title>anreddy_lab5_5project-3.5</title>
+            <link>slides/anreddy_lab5_5project-3.5.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/anreddy_lab5_5project-3.5.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="anreddy_lab5_5project-3.5.png" width="875" height="875"/>
+            <guid isPermaLink="false">anreddy_lab5_5project-3.5.png</guid>
+        </item>
+        <item>
+            <title>anreddy_lab5_6project-1.2</title>
+            <link>slides/anreddy_lab5_6project-1.2.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/anreddy_lab5_6project-1.2.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="anreddy_lab5_6project-1.2.png" width="882" height="882"/>
+            <guid isPermaLink="false">anreddy_lab5_6project-1.2.png</guid>
+        </item>
+        <item>
+            <title>anreddy_lab5_7project-1.3</title>
+            <link>slides/anreddy_lab5_7project-1.3.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/anreddy_lab5_7project-1.3.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="anreddy_lab5_7project-1.3.png" width="882" height="882"/>
+            <guid isPermaLink="false">anreddy_lab5_7project-1.3.png</guid>
+        </item>
+        <item>
+            <title>anreddy_lab5_8project-2.14</title>
+            <link>slides/anreddy_lab5_8project-2.14.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/anreddy_lab5_8project-2.14.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="anreddy_lab5_8project-2.14.png" width="882" height="882"/>
+            <guid isPermaLink="false">anreddy_lab5_8project-2.14.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab1_beast_flake</title>
+            <link>slides/curtis_lab1_beast_flake.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab1_beast_flake.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab1_beast_flake.png" width="800" height="800"/>
+            <guid isPermaLink="false">curtis_lab1_beast_flake.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab1_super_flake</title>
+            <link>slides/curtis_lab1_super_flake.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab1_super_flake.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab1_super_flake.png" width="800" height="800"/>
+            <guid isPermaLink="false">curtis_lab1_super_flake.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab3_aa_sphere_flake</title>
+            <link>slides/curtis_lab3_aa_sphere_flake.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab3_aa_sphere_flake.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab3_aa_sphere_flake.png" width="1920" height="1200"/>
+            <guid isPermaLink="false">curtis_lab3_aa_sphere_flake.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab3_billiards</title>
+            <link>slides/curtis_lab3_billiards.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab3_billiards.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab3_billiards.png" width="800" height="800"/>
+            <guid isPermaLink="false">curtis_lab3_billiards.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab3_red_ball_gloss</title>
+            <link>slides/curtis_lab3_red_ball_gloss.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab3_red_ball_gloss.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab3_red_ball_gloss.png" width="800" height="800"/>
+            <guid isPermaLink="false">curtis_lab3_red_ball_gloss.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab4_2011</title>
+            <link>slides/curtis_lab4_2011.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab4_2011.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab4_2011.png" width="800" height="800"/>
+            <guid isPermaLink="false">curtis_lab4_2011.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab4_refract_sphere</title>
+            <link>slides/curtis_lab4_refract_sphere.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab4_refract_sphere.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab4_refract_sphere.png" width="800" height="800"/>
+            <guid isPermaLink="false">curtis_lab4_refract_sphere.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab5_2011_800</title>
+            <link>slides/curtis_lab5_2011_800.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab5_2011_800.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab5_2011_800.png" width="800" height="533"/>
+            <guid isPermaLink="false">curtis_lab5_2011_800.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab5_blurred_refraction</title>
+            <link>slides/curtis_lab5_blurred_refraction.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab5_blurred_refraction.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab5_blurred_refraction.png" width="400" height="400"/>
+            <guid isPermaLink="false">curtis_lab5_blurred_refraction.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab5_depth_600</title>
+            <link>slides/curtis_lab5_depth_600.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab5_depth_600.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab5_depth_600.png" width="600" height="400"/>
+            <guid isPermaLink="false">curtis_lab5_depth_600.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab5_soft_shadow</title>
+            <link>slides/curtis_lab5_soft_shadow.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab5_soft_shadow.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab5_soft_shadow.png" width="800" height="800"/>
+            <guid isPermaLink="false">curtis_lab5_soft_shadow.png</guid>
+        </item>
+        <item>
+            <title>curtis_lab5_wallpaper1</title>
+            <link>slides/curtis_lab5_wallpaper1.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/curtis_lab5_wallpaper1.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="curtis_lab5_wallpaper1.png" width="1920" height="1200"/>
+            <guid isPermaLink="false">curtis_lab5_wallpaper1.png</guid>
+        </item>
+        <item>
+            <title>dornan_lab1_sphere_flake_5</title>
+            <link>slides/dornan_lab1_sphere_flake_5.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dornan_lab1_sphere_flake_5.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="dornan_lab1_sphere_flake_5.png" width="800" height="800"/>
+            <guid isPermaLink="false">dornan_lab1_sphere_flake_5.png</guid>
+        </item>
+        <item>
+            <title>dornan_lab1_test</title>
+            <link>slides/dornan_lab1_test.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dornan_lab1_test.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="dornan_lab1_test.png" width="400" height="400"/>
+            <guid isPermaLink="false">dornan_lab1_test.png</guid>
+        </item>
+        <item>
+            <title>dornan_lab4_spheres-1.0</title>
+            <link>slides/dornan_lab4_spheres-1.0.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dornan_lab4_spheres-1.0.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="dornan_lab4_spheres-1.0.png" width="400" height="400"/>
+            <guid isPermaLink="false">dornan_lab4_spheres-1.0.png</guid>
+        </item>
+        <item>
+            <title>dornan_lab4_spheres-1.3</title>
+            <link>slides/dornan_lab4_spheres-1.3.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dornan_lab4_spheres-1.3.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="dornan_lab4_spheres-1.3.png" width="400" height="400"/>
+            <guid isPermaLink="false">dornan_lab4_spheres-1.3.png</guid>
+        </item>
+        <item>
+            <title>dornan_lab4_spheres-1.7</title>
+            <link>slides/dornan_lab4_spheres-1.7.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dornan_lab4_spheres-1.7.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="dornan_lab4_spheres-1.7.png" width="400" height="400"/>
+            <guid isPermaLink="false">dornan_lab4_spheres-1.7.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab1_Multi_Light_Test</title>
+            <link>slides/johnson_lab1_Multi_Light_Test.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab1_Multi_Light_Test.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab1_Multi_Light_Test.png" width="400" height="400"/>
+            <guid isPermaLink="false">johnson_lab1_Multi_Light_Test.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab1_Sphere Flake with AA</title>
+            <link>slides/johnson_lab1_Sphere Flake with AA.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab1_Sphere Flake with AA.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab1_Sphere Flake with AA.png" width="736" height="736"/>
+            <guid isPermaLink="false">johnson_lab1_Sphere Flake with AA.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab2_apollo</title>
+            <link>slides/johnson_lab2_apollo.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab2_apollo.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab2_apollo.png" width="400" height="400"/>
+            <guid isPermaLink="false">johnson_lab2_apollo.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab2_polygon</title>
+            <link>slides/johnson_lab2_polygon.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab2_polygon.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab2_polygon.png" width="400" height="400"/>
+            <guid isPermaLink="false">johnson_lab2_polygon.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab2_sapphos-AA1 (3 sec)</title>
+            <link>slides/johnson_lab2_sapphos-AA1 (3 sec).html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab2_sapphos-AA1 (3 sec).jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab2_sapphos-AA1 (3 sec).png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab2_sapphos-AA1 (3 sec).png</guid>
+        </item>
+        <item>
+            <title>johnson_lab2_sapphos-AA64 (148 sec)</title>
+            <link>slides/johnson_lab2_sapphos-AA64 (148 sec).html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab2_sapphos-AA64 (148 sec).jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab2_sapphos-AA64 (148 sec).png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab2_sapphos-AA64 (148 sec).png</guid>
+        </item>
+        <item>
+            <title>johnson_lab2_the_beast-30secs</title>
+            <link>slides/johnson_lab2_the_beast-30secs.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab2_the_beast-30secs.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab2_the_beast-30secs.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab2_the_beast-30secs.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab3_Gloss(G0.5_AA128)</title>
+            <link>slides/johnson_lab3_Gloss(G0.5_AA128).html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab3_Gloss(G0.5_AA128).jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab3_Gloss(G0.5_AA128).png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab3_Gloss(G0.5_AA128).png</guid>
+        </item>
+        <item>
+            <title>johnson_lab3_Gloss(G0.5_AA128)_Meta</title>
+            <link>slides/johnson_lab3_Gloss(G0.5_AA128)_Meta.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab3_Gloss(G0.5_AA128)_Meta.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab3_Gloss(G0.5_AA128)_Meta.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab3_Gloss(G0.5_AA128)_Meta.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab3_Gloss</title>
+            <link>slides/johnson_lab3_Gloss.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab3_Gloss.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab3_Gloss.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab3_Gloss.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab3_Gloss_Meta</title>
+            <link>slides/johnson_lab3_Gloss_Meta.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab3_Gloss_Meta.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab3_Gloss_Meta.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab3_Gloss_Meta.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab3_sphereflake_AA</title>
+            <link>slides/johnson_lab3_sphereflake_AA.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab3_sphereflake_AA.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab3_sphereflake_AA.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab3_sphereflake_AA.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab3_sphereflake_AA_Meta</title>
+            <link>slides/johnson_lab3_sphereflake_AA_Meta.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab3_sphereflake_AA_Meta.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab3_sphereflake_AA_Meta.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab3_sphereflake_AA_Meta.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab3_statue-Subdivision</title>
+            <link>slides/johnson_lab3_statue-Subdivision.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab3_statue-Subdivision.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab3_statue-Subdivision.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab3_statue-Subdivision.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab3_statue-subdivision_Meta</title>
+            <link>slides/johnson_lab3_statue-subdivision_Meta.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab3_statue-subdivision_Meta.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab3_statue-subdivision_Meta.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab3_statue-subdivision_Meta.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab4_Blur</title>
+            <link>slides/johnson_lab4_Blur.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab4_Blur.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab4_Blur.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab4_Blur.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab4_Blur_Meta</title>
+            <link>slides/johnson_lab4_Blur_Meta.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab4_Blur_Meta.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab4_Blur_Meta.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab4_Blur_Meta.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab4_Refraction</title>
+            <link>slides/johnson_lab4_Refraction.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab4_Refraction.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab4_Refraction.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab4_Refraction.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab4_Refraction_Meta</title>
+            <link>slides/johnson_lab4_Refraction_Meta.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab4_Refraction_Meta.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab4_Refraction_Meta.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab4_Refraction_Meta.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab4_Texture_Polygon</title>
+            <link>slides/johnson_lab4_Texture_Polygon.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab4_Texture_Polygon.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab4_Texture_Polygon.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab4_Texture_Polygon.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab4_Texture_Polygon_Meta</title>
+            <link>slides/johnson_lab4_Texture_Polygon_Meta.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab4_Texture_Polygon_Meta.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab4_Texture_Polygon_Meta.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab4_Texture_Polygon_Meta.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab4_Texture_Sphere</title>
+            <link>slides/johnson_lab4_Texture_Sphere.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab4_Texture_Sphere.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab4_Texture_Sphere.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab4_Texture_Sphere.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab4_Texture_Sphere_Meta</title>
+            <link>slides/johnson_lab4_Texture_Sphere_Meta.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab4_Texture_Sphere_Meta.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab4_Texture_Sphere_Meta.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab4_Texture_Sphere_Meta.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab5_the_box(diffuse)</title>
+            <link>slides/johnson_lab5_the_box(diffuse).html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab5_the_box(diffuse).jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab5_the_box(diffuse).png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab5_the_box(diffuse).png</guid>
+        </item>
+        <item>
+            <title>johnson_lab5_the_box(reflective-a)</title>
+            <link>slides/johnson_lab5_the_box(reflective-a).html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab5_the_box(reflective-a).jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab5_the_box(reflective-a).png" width="400" height="400"/>
+            <guid isPermaLink="false">johnson_lab5_the_box(reflective-a).png</guid>
+        </item>
+        <item>
+            <title>johnson_lab5_the_box(sample_density N=100K)</title>
+            <link>slides/johnson_lab5_the_box(sample_density N=100K).html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab5_the_box(sample_density N=100K).jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab5_the_box(sample_density N=100K).png" width="400" height="400"/>
+            <guid isPermaLink="false">johnson_lab5_the_box(sample_density N=100K).png</guid>
+        </item>
+        <item>
+            <title>johnson_lab5_the_box-final</title>
+            <link>slides/johnson_lab5_the_box-final.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab5_the_box-final.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab5_the_box-final.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab5_the_box-final.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_box[1]-complete</title>
+            <link>slides/johnson_lab6_box[1]-complete.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_box[1]-complete.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_box[1]-complete.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab6_box[1]-complete.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_box[2]-direct-only</title>
+            <link>slides/johnson_lab6_box[2]-direct-only.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_box[2]-direct-only.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_box[2]-direct-only.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab6_box[2]-direct-only.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_box[3]-diffuse-only</title>
+            <link>slides/johnson_lab6_box[3]-diffuse-only.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_box[3]-diffuse-only.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_box[3]-diffuse-only.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab6_box[3]-diffuse-only.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_box[4]-specular-only</title>
+            <link>slides/johnson_lab6_box[4]-specular-only.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_box[4]-specular-only.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_box[4]-specular-only.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab6_box[4]-specular-only.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_box[5]-transmissive-only</title>
+            <link>slides/johnson_lab6_box[5]-transmissive-only.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_box[5]-transmissive-only.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_box[5]-transmissive-only.png" width="800" height="800"/>
+            <guid isPermaLink="false">johnson_lab6_box[5]-transmissive-only.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_box[6]-comparison</title>
+            <link>slides/johnson_lab6_box[6]-comparison.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_box[6]-comparison.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_box[6]-comparison.png" width="1600" height="1600"/>
+            <guid isPermaLink="false">johnson_lab6_box[6]-comparison.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_indirect_lighting</title>
+            <link>slides/johnson_lab6_indirect_lighting.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_indirect_lighting.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_indirect_lighting.png" width="500" height="500"/>
+            <guid isPermaLink="false">johnson_lab6_indirect_lighting.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_soft_shadows</title>
+            <link>slides/johnson_lab6_soft_shadows.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_soft_shadows.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_soft_shadows.png" width="500" height="500"/>
+            <guid isPermaLink="false">johnson_lab6_soft_shadows.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_spheres[1]-baseline</title>
+            <link>slides/johnson_lab6_spheres[1]-baseline.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_spheres[1]-baseline.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_spheres[1]-baseline.png" width="500" height="500"/>
+            <guid isPermaLink="false">johnson_lab6_spheres[1]-baseline.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_spheres[2]-reflections</title>
+            <link>slides/johnson_lab6_spheres[2]-reflections.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_spheres[2]-reflections.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_spheres[2]-reflections.png" width="500" height="500"/>
+            <guid isPermaLink="false">johnson_lab6_spheres[2]-reflections.png</guid>
+        </item>
+        <item>
+            <title>johnson_lab6_spheres[3]-transmission</title>
+            <link>slides/johnson_lab6_spheres[3]-transmission.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/johnson_lab6_spheres[3]-transmission.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="johnson_lab6_spheres[3]-transmission.png" width="500" height="500"/>
+            <guid isPermaLink="false">johnson_lab6_spheres[3]-transmission.png</guid>
+        </item>
+        <item>
+            <title>langston_lab3_assignment_3_motion</title>
+            <link>slides/langston_lab3_assignment_3_motion.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/langston_lab3_assignment_3_motion.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="langston_lab3_assignment_3_motion.png" width="400" height="400"/>
+            <guid isPermaLink="false">langston_lab3_assignment_3_motion.png</guid>
+        </item>
+        <item>
+            <title>langston_lab4_wallpaper01</title>
+            <link>slides/langston_lab4_wallpaper01.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/langston_lab4_wallpaper01.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="langston_lab4_wallpaper01.png" width="1600" height="941"/>
+            <guid isPermaLink="false">langston_lab4_wallpaper01.png</guid>
+        </item>
+        <item>
+            <title>langston_lab5_soft_shadows</title>
+            <link>slides/langston_lab5_soft_shadows.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/langston_lab5_soft_shadows.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="langston_lab5_soft_shadows.png" width="1000" height="1000"/>
+            <guid isPermaLink="false">langston_lab5_soft_shadows.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab1_five</title>
+            <link>slides/lewis_lab1_five.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab1_five.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab1_five.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab1_five.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab2_chapel</title>
+            <link>slides/lewis_lab2_chapel.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab2_chapel.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab2_chapel.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab2_chapel.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab2_custom</title>
+            <link>slides/lewis_lab2_custom.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab2_custom.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab2_custom.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab2_custom.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab2_p</title>
+            <link>slides/lewis_lab2_p.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab2_p.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab2_p.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab2_p.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab3_customAnti</title>
+            <link>slides/lewis_lab3_customAnti.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab3_customAnti.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab3_customAnti.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab3_customAnti.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab3_gloss</title>
+            <link>slides/lewis_lab3_gloss.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab3_gloss.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab3_gloss.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab3_gloss.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab3_gNoGloss</title>
+            <link>slides/lewis_lab3_gNoGloss.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab3_gNoGloss.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab3_gNoGloss.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab3_gNoGloss.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab3_p2AntiAlias</title>
+            <link>slides/lewis_lab3_p2AntiAlias.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab3_p2AntiAlias.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab3_p2AntiAlias.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab3_p2AntiAlias.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_clearPoly_1.0</title>
+            <link>slides/lewis_lab4_clearPoly_1.0.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_clearPoly_1.0.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_clearPoly_1.0.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_clearPoly_1.0.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_clearPoly_1.7</title>
+            <link>slides/lewis_lab4_clearPoly_1.7.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_clearPoly_1.7.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_clearPoly_1.7.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_clearPoly_1.7.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_clearSphere_1.0</title>
+            <link>slides/lewis_lab4_clearSphere_1.0.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_clearSphere_1.0.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_clearSphere_1.0.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_clearSphere_1.0.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_clearSphere_1.7</title>
+            <link>slides/lewis_lab4_clearSphere_1.7.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_clearSphere_1.7.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_clearSphere_1.7.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_clearSphere_1.7.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_clearSphere_slight</title>
+            <link>slides/lewis_lab4_clearSphere_slight.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_clearSphere_slight.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_clearSphere_slight.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_clearSphere_slight.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_coloredPoly_1.0</title>
+            <link>slides/lewis_lab4_coloredPoly_1.0.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_coloredPoly_1.0.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_coloredPoly_1.0.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_coloredPoly_1.0.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_coloredPoly_1.0_greenExtinct</title>
+            <link>slides/lewis_lab4_coloredPoly_1.0_greenExtinct.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_coloredPoly_1.0_greenExtinct.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_coloredPoly_1.0_greenExtinct.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_coloredPoly_1.0_greenExtinct.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_coloredPoly_1.7_greenExtinct</title>
+            <link>slides/lewis_lab4_coloredPoly_1.7_greenExtinct.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_coloredPoly_1.7_greenExtinct.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_coloredPoly_1.7_greenExtinct.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_coloredPoly_1.7_greenExtinct.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_coloredSphere_1.0</title>
+            <link>slides/lewis_lab4_coloredSphere_1.0.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_coloredSphere_1.0.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_coloredSphere_1.0.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_coloredSphere_1.0.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_coloredSphere_1.0_greenExtinct</title>
+            <link>slides/lewis_lab4_coloredSphere_1.0_greenExtinct.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_coloredSphere_1.0_greenExtinct.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_coloredSphere_1.0_greenExtinct.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_coloredSphere_1.0_greenExtinct.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_coloredSphere_1.7_greenExtinct</title>
+            <link>slides/lewis_lab4_coloredSphere_1.7_greenExtinct.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_coloredSphere_1.7_greenExtinct.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_coloredSphere_1.7_greenExtinct.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_coloredSphere_1.7_greenExtinct.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab4_textureMap</title>
+            <link>slides/lewis_lab4_textureMap.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab4_textureMap.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab4_textureMap.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab4_textureMap.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab5_combo</title>
+            <link>slides/lewis_lab5_combo.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab5_combo.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab5_combo.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab5_combo.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab5_dof</title>
+            <link>slides/lewis_lab5_dof.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab5_dof.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab5_dof.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab5_dof.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab5_marble2</title>
+            <link>slides/lewis_lab5_marble2.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab5_marble2.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab5_marble2.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab5_marble2.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab5_newDof0</title>
+            <link>slides/lewis_lab5_newDof0.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab5_newDof0.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab5_newDof0.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab5_newDof0.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab5_newDof1</title>
+            <link>slides/lewis_lab5_newDof1.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab5_newDof1.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab5_newDof1.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab5_newDof1.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab5_newDof2</title>
+            <link>slides/lewis_lab5_newDof2.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab5_newDof2.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab5_newDof2.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab5_newDof2.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab5_planet_clouds</title>
+            <link>slides/lewis_lab5_planet_clouds.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab5_planet_clouds.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab5_planet_clouds.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab5_planet_clouds.png</guid>
+        </item>
+        <item>
+            <title>lewis_lab5_refPoly2</title>
+            <link>slides/lewis_lab5_refPoly2.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lewis_lab5_refPoly2.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="lewis_lab5_refPoly2.png" width="400" height="400"/>
+            <guid isPermaLink="false">lewis_lab5_refPoly2.png</guid>
+        </item>
+        <item>
+            <title>moser_lab1_my3flake</title>
+            <link>slides/moser_lab1_my3flake.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab1_my3flake.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab1_my3flake.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab1_my3flake.png</guid>
+        </item>
+        <item>
+            <title>moser_lab1_ppm</title>
+            <link>slides/moser_lab1_ppm.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab1_ppm.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab1_ppm.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab1_ppm.png</guid>
+        </item>
+        <item>
+            <title>moser_lab1_reflective_sphere</title>
+            <link>slides/moser_lab1_reflective_sphere.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab1_reflective_sphere.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab1_reflective_sphere.png" width="1200" height="600"/>
+            <guid isPermaLink="false">moser_lab1_reflective_sphere.png</guid>
+        </item>
+        <item>
+            <title>moser_lab2_dodecahedron</title>
+            <link>slides/moser_lab2_dodecahedron.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab2_dodecahedron.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab2_dodecahedron.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab2_dodecahedron.png</guid>
+        </item>
+        <item>
+            <title>moser_lab2_elf</title>
+            <link>slides/moser_lab2_elf.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab2_elf.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab2_elf.png" width="800" height="800"/>
+            <guid isPermaLink="false">moser_lab2_elf.png</guid>
+        </item>
+        <item>
+            <title>moser_lab2_hydrant</title>
+            <link>slides/moser_lab2_hydrant.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab2_hydrant.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab2_hydrant.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab2_hydrant.png</guid>
+        </item>
+        <item>
+            <title>moser_lab2_sapphos</title>
+            <link>slides/moser_lab2_sapphos.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab2_sapphos.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab2_sapphos.png" width="200" height="200"/>
+            <guid isPermaLink="false">moser_lab2_sapphos.png</guid>
+        </item>
+        <item>
+            <title>moser_lab2_shark</title>
+            <link>slides/moser_lab2_shark.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab2_shark.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab2_shark.png" width="1000" height="2000"/>
+            <guid isPermaLink="false">moser_lab2_shark.png</guid>
+        </item>
+        <item>
+            <title>moser_lab2_window</title>
+            <link>slides/moser_lab2_window.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab2_window.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab2_window.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab2_window.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_2011</title>
+            <link>slides/moser_lab3_2011.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_2011.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_2011.png" width="800" height="800"/>
+            <guid isPermaLink="false">moser_lab3_2011.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_blur_n</title>
+            <link>slides/moser_lab3_blur_n.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_blur_n.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_blur_n.png" width="800" height="800"/>
+            <guid isPermaLink="false">moser_lab3_blur_n.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_blur_n_blur</title>
+            <link>slides/moser_lab3_blur_n_blur.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_blur_n_blur.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_blur_n_blur.png" width="800" height="800"/>
+            <guid isPermaLink="false">moser_lab3_blur_n_blur.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_blur_n_blur_t</title>
+            <link>slides/moser_lab3_blur_n_blur_t.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_blur_n_blur_t.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_blur_n_blur_t.png" width="800" height="800"/>
+            <guid isPermaLink="false">moser_lab3_blur_n_blur_t.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_diam</title>
+            <link>slides/moser_lab3_diam.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_diam.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_diam.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab3_diam.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_dodecahedron</title>
+            <link>slides/moser_lab3_dodecahedron.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_dodecahedron.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_dodecahedron.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab3_dodecahedron.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_poly_n_spheres_a</title>
+            <link>slides/moser_lab3_poly_n_spheres_a.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_poly_n_spheres_a.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_poly_n_spheres_a.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab3_poly_n_spheres_a.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_poly_n_spheres_a_r</title>
+            <link>slides/moser_lab3_poly_n_spheres_a_r.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_poly_n_spheres_a_r.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_poly_n_spheres_a_r.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab3_poly_n_spheres_a_r.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_sphere_a_t</title>
+            <link>slides/moser_lab3_sphere_a_t.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_sphere_a_t.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_sphere_a_t.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab3_sphere_a_t.png</guid>
+        </item>
+        <item>
+            <title>moser_lab3_triangle_a</title>
+            <link>slides/moser_lab3_triangle_a.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab3_triangle_a.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab3_triangle_a.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab3_triangle_a.png</guid>
+        </item>
+        <item>
+            <title>moser_lab4_2011_final</title>
+            <link>slides/moser_lab4_2011_final.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab4_2011_final.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab4_2011_final.png" width="800" height="800"/>
+            <guid isPermaLink="false">moser_lab4_2011_final.png</guid>
+        </item>
+        <item>
+            <title>moser_lab4_diam_final</title>
+            <link>slides/moser_lab4_diam_final.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab4_diam_final.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab4_diam_final.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab4_diam_final.png</guid>
+        </item>
+        <item>
+            <title>moser_lab4_planets_final2</title>
+            <link>slides/moser_lab4_planets_final2.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab4_planets_final2.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab4_planets_final2.png" width="3600" height="1800"/>
+            <guid isPermaLink="false">moser_lab4_planets_final2.png</guid>
+        </item>
+        <item>
+            <title>moser_lab5_black_hole</title>
+            <link>slides/moser_lab5_black_hole.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab5_black_hole.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab5_black_hole.png" width="800" height="400"/>
+            <guid isPermaLink="false">moser_lab5_black_hole.png</guid>
+        </item>
+        <item>
+            <title>moser_lab5_chess</title>
+            <link>slides/moser_lab5_chess.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab5_chess.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab5_chess.png" width="400" height="400"/>
+            <guid isPermaLink="false">moser_lab5_chess.png</guid>
+        </item>
+        <item>
+            <title>moser_lab5_city</title>
+            <link>slides/moser_lab5_city.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab5_city.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab5_city.png" width="1200" height="1200"/>
+            <guid isPermaLink="false">moser_lab5_city.png</guid>
+        </item>
+        <item>
+            <title>moser_lab5_dragon</title>
+            <link>slides/moser_lab5_dragon.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab5_dragon.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab5_dragon.png" width="1200" height="1200"/>
+            <guid isPermaLink="false">moser_lab5_dragon.png</guid>
+        </item>
+        <item>
+            <title>moser_lab5_term</title>
+            <link>slides/moser_lab5_term.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab5_term.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab5_term.png" width="800" height="800"/>
+            <guid isPermaLink="false">moser_lab5_term.png</guid>
+        </item>
+        <item>
+            <title>moser_lab5_under_bed</title>
+            <link>slides/moser_lab5_under_bed.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moser_lab5_under_bed.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="moser_lab5_under_bed.png" width="1200" height="1200"/>
+            <guid isPermaLink="false">moser_lab5_under_bed.png</guid>
+        </item>
+        <item>
+            <title>nguyen_lab3_SpherePolyGlossSampling800</title>
+            <link>slides/nguyen_lab3_SpherePolyGlossSampling800.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nguyen_lab3_SpherePolyGlossSampling800.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="nguyen_lab3_SpherePolyGlossSampling800.png" width="800" height="800"/>
+            <guid isPermaLink="false">nguyen_lab3_SpherePolyGlossSampling800.png</guid>
+        </item>
+        <item>
+            <title>nguyen_lab3_SpherePolyNoGlossSampling800</title>
+            <link>slides/nguyen_lab3_SpherePolyNoGlossSampling800.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nguyen_lab3_SpherePolyNoGlossSampling800.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="nguyen_lab3_SpherePolyNoGlossSampling800.png" width="800" height="800"/>
+            <guid isPermaLink="false">nguyen_lab3_SpherePolyNoGlossSampling800.png</guid>
+        </item>
+        <item>
+            <title>nguyen_lab3_test1.0</title>
+            <link>slides/nguyen_lab3_test1.0.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nguyen_lab3_test1.0.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="nguyen_lab3_test1.0.png" width="400" height="400"/>
+            <guid isPermaLink="false">nguyen_lab3_test1.0.png</guid>
+        </item>
+        <item>
+            <title>nguyen_lab3_test1.7</title>
+            <link>slides/nguyen_lab3_test1.7.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nguyen_lab3_test1.7.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="nguyen_lab3_test1.7.png" width="400" height="400"/>
+            <guid isPermaLink="false">nguyen_lab3_test1.7.png</guid>
+        </item>
+        <item>
+            <title>nguyen_lab4_texturefab</title>
+            <link>slides/nguyen_lab4_texturefab.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nguyen_lab4_texturefab.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="nguyen_lab4_texturefab.png" width="400" height="400"/>
+            <guid isPermaLink="false">nguyen_lab4_texturefab.png</guid>
+        </item>
+        <item>
+            <title>nguyen_lab4_texturepaint</title>
+            <link>slides/nguyen_lab4_texturepaint.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nguyen_lab4_texturepaint.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="nguyen_lab4_texturepaint.png" width="800" height="800"/>
+            <guid isPermaLink="false">nguyen_lab4_texturepaint.png</guid>
+        </item>
+        <item>
+            <title>nguyen_lab5_blur refract and soft shadows BIG</title>
+            <link>slides/nguyen_lab5_blur refract and soft shadows BIG.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nguyen_lab5_blur refract and soft shadows BIG.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="nguyen_lab5_blur refract and soft shadows BIG.png" width="800" height="800"/>
+            <guid isPermaLink="false">nguyen_lab5_blur refract and soft shadows BIG.png</guid>
+        </item>
+        <item>
+            <title>nguyen_lab5_more spheres sample 4</title>
+            <link>slides/nguyen_lab5_more spheres sample 4.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nguyen_lab5_more spheres sample 4.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="nguyen_lab5_more spheres sample 4.png" width="800" height="800"/>
+            <guid isPermaLink="false">nguyen_lab5_more spheres sample 4.png</guid>
+        </item>
+        <item>
+            <title>wu_lab1_new1</title>
+            <link>slides/wu_lab1_new1.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab1_new1.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab1_new1.png" width="800" height="800"/>
+            <guid isPermaLink="false">wu_lab1_new1.png</guid>
+        </item>
+        <item>
+            <title>wu_lab4_index1.0</title>
+            <link>slides/wu_lab4_index1.0.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab4_index1.0.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab4_index1.0.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab4_index1.0.png</guid>
+        </item>
+        <item>
+            <title>wu_lab4_index1.5</title>
+            <link>slides/wu_lab4_index1.5.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab4_index1.5.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab4_index1.5.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab4_index1.5.png</guid>
+        </item>
+        <item>
+            <title>wu_lab5_1sub</title>
+            <link>slides/wu_lab5_1sub.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab5_1sub.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab5_1sub.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab5_1sub.png</guid>
+        </item>
+        <item>
+            <title>wu_lab5_4sub</title>
+            <link>slides/wu_lab5_4sub.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab5_4sub.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab5_4sub.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab5_4sub.png</guid>
+        </item>
+        <item>
+            <title>wu_lab5_16sub</title>
+            <link>slides/wu_lab5_16sub.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab5_16sub.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab5_16sub.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab5_16sub.png</guid>
+        </item>
+        <item>
+            <title>wu_lab5_64sub</title>
+            <link>slides/wu_lab5_64sub.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab5_64sub.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab5_64sub.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab5_64sub.png</guid>
+        </item>
+        <item>
+            <title>wu_lab5_100sub</title>
+            <link>slides/wu_lab5_100sub.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab5_100sub.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab5_100sub.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab5_100sub.png</guid>
+        </item>
+        <item>
+            <title>wu_lab5_ref0</title>
+            <link>slides/wu_lab5_ref0.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab5_ref0.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab5_ref0.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab5_ref0.png</guid>
+        </item>
+        <item>
+            <title>wu_lab5_ref1</title>
+            <link>slides/wu_lab5_ref1.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab5_ref1.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab5_ref1.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab5_ref1.png</guid>
+        </item>
+        <item>
+            <title>wu_lab5_ref16</title>
+            <link>slides/wu_lab5_ref16.html#</link>
+            <pubDate>Tue, 15 Nov 2011 19:32:03 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/wu_lab5_ref16.jpg" width="174" height="174"/>
+            <media:content type="image/png" url="wu_lab5_ref16.png" width="400" height="400"/>
+            <guid isPermaLink="false">wu_lab5_ref16.png</guid>
+        </item>
+    </channel>
+</rss>

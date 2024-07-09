@@ -1,0 +1,164 @@
+/* Clear out all the default spacing */
+html, body, ul, li, h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* General Text Settings */
+body {
+  font-family: "Palatino Linotype", Times, serif;
+  /*font-size: medium;*/
+  font-size: small;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+h1 {
+  font-weight: bolder;
+  font-size: 1.2em;
+  margin-left: 0em;
+  margin-bottom: 1em;
+  padding-bottom: 0.25em;
+  border-bottom: thin solid #660000;
+}
+h2 {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #660000;
+  margin-left: 0em;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  border-bottom: thin solid silver;
+}
+h3 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.1em;
+  margin-left: 0em;
+}
+h4 { 
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  margin-left: 0em;
+}
+h5 { 
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  margin-left: 1em;
+}
+span.parlabel {
+  font-weight: bold;
+  font-size: 1.0em;
+  color: #660000;
+  font-variant: small-caps;
+}
+dt {
+  font-style: italic;
+}
+a:link {
+  /*color: #AA0000;*/
+  /*color: rgb(240,173,0);*/
+  color: rgb(0,77,141);
+  text-decoration: none;
+}
+a:visited {
+  color: purple;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted 
+}
+blockquote {
+  font-style: italic;
+}
+span.code {
+  font-family: Courier New, monospace;
+  font-size: 0.9em;
+}
+
+/* A simple bullet list */
+ul.bullet {
+  margin-left: 1.0em;
+}
+ul.bullet li {  
+  list-style: disc outside;
+}
+
+/* A hanging, description-style list */
+ul.hanging { 
+  margin-left: 1.0em;
+}
+ul.hanging li {  
+  margin-top: 1.0em;
+  list-style: none;
+  text-indent: -1.0em;
+}
+
+/* A simple numbered list */
+ol.numbered { 
+  margin-left: 2.0em;
+}
+ol.numbered li { 
+  /*margin-top: 0.5em;*/
+  list-style: decimal outside;
+}
+
+/* Tables */
+table.twocolumn {
+  width: 100%;
+  border-width: medium;
+}
+td.contentcolumn {
+  vertical-align: top;
+}
+table.plain {
+  position: relative; 
+  left: 2em;
+  background-color: #FFFFFF;
+}
+td.leftbox { 
+  border: thin silver solid
+}
+
+/* Navigation Bar */
+td.navbar {
+  vertical-align: top;
+  background-color: #660000;
+}
+ul.navbar {
+  background: #660000;
+  list-style-type: none;
+  margin: 0;
+}
+ul.navbar li {
+  color: white;
+  text-align: right;
+  padding-bottom: 0.3em;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  font-size: 1.2em;
+  font-weight: bolder;
+  font-variant: small-caps;
+  list-style-type: none;
+  margin: 0;
+}
+ul.navbar a:link {
+  color: white;
+  text-decoration: none;
+  vertical-align: inherit;
+}
+ul.navbar a:visited { 
+  color: white; 
+  text-decoration: none; 
+}
+ul.navbar a:hover { 
+  color: white; 
+  text-decoration: underline; 
+}

@@ -1,0 +1,110 @@
+/* General Text Settings */
+body {
+	margin-left: 2em;
+	margin-right: 2em;
+	font-family: Garamond, Georgia, serif;
+}
+h1 {
+	font-weight: bolder;
+	font-size: 1.5em;
+	margin-left: -1em;
+	margin-bottom: 0em;
+	font-variant: small-caps;
+}
+h2 {
+	font-weight: bold;
+	font-size: 1.1em;
+	margin-left: -0.5em;
+}
+h3 {
+	font-weight: normal;
+	font-style: italic;
+	font-size: 1.1em;
+	margin-left: -0.5em;
+}
+h4 { 
+	font-weight: normal;
+	font-style: roman;
+	font-size: 1em;
+	margin-left: -0.5em;
+}
+h5 { 
+	font-weight: normal;
+	font-style: roman;
+	font-size: 1em;
+	margin-left: 1em;
+}
+span.parlabel {
+	font-weight: bold;
+	font-variant: small-caps;
+	text-decoration: underline;
+}
+dt {
+	font-style: italic;
+}
+a:link {
+	color: #FF0000;
+	text-decoration: none;
+}
+a:visited {
+	color: purple;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+address {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin dotted 
+}
+blockquote {
+	font-style: italic;
+}
+span.code {
+	font-family: Courier New, monospace;
+	font-size: 0.9em;
+}
+/* Tables */
+table.plain {
+	position:relative; 
+	left:2em;
+	background-color: #FFFFFF;
+}
+td.leftbox { 
+        border: thin silver solid
+}
+/* Navigation Bar */
+body.navbar { 
+	background: #660000;
+}
+ul.navbar {
+	list-style-type: none;
+	padding: 0;
+	padding-top: .5em;
+	margin: 0;
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 9em;
+}
+ul.navbar li {
+	font-variant: small-caps;
+	color: white;
+	text-align: right;
+	padding: 0.3em;
+	font-size: 1.5em;
+}
+ul.navbar a:link { 
+	color: white; 
+	text-decoration: none; 
+}
+ul.navbar a:visited { 
+	color: white; 
+	text-decoration: none; 
+}
+ul.navbar a:hover { 
+	color: white; 
+	text-decoration: underline; 
+}
